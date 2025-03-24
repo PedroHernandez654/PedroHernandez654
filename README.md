@@ -1,59 +1,35 @@
-## 🚀 About Me
-Hi, I’m @PedroHernandez654
-I 'm a backend developer with experience in .NET and Java. I love building scalable solutions, optimizing performance and writing clean code. I 'm always learning new things and looking for new challenges to improve my skills.
-I have an instagram where I teach fun facts and programming, Follow me @code.to.learn
+# 🚀 About Me:
+🔭 Backend developer focused on .NET and web technologies.  
+🔧 Currently creating scalable solutions with Blazor and SQL Server.  
+💡 I am passionate about software optimization and clean architecture.  
+🤝 Always open to collaborate on challenging and innovative projects.  
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/https://pedrohernandez654.github.io/Pedro_Hernandez_Portafolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/http://www.linkedin.com/in/pedro-david-hernandez-dzul)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-david-hernandez-dzul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23F7B500.svg?style=flat&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![.NET](https://img.shields.io/badge/.NET-%231463B5.svg?style=flat&logo=.net&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)  
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23512BD4.svg?style=flat&logo=entity-framework&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
+![Blazor](https://img.shields.io/badge/Blazor-%23D2D6DC.svg?style=flat&logo=blazor&logoColor=black) 
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/sqlserver-%230078D4.svg?style=flat&logo=microsoft-sql-server&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%2300477D.svg?style=flat&logo=postgresql&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-## 🛠 Skills
-<p align="center">
-  <span style="display: inline-flex; align-items: center; background: #512BD4; border-radius: 20px; padding: 5px 10px; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50">&nbsp;C#
-  </span>
-  
-  <span style="display: inline-flex; align-items: center; background: #007396; border-radius: 20px; padding: 5px 10px; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" width="20">&nbsp;Java
-  </span>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PedroHernandez654&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-  <span style="display: inline-flex; align-items: center; background: #F7DF1E; border-radius: 20px; padding: 5px 10px; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20">&nbsp;JavaScript
-  </span>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PedroHernandez654&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PedroHernandez654&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHernandez654&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=c,c%2B%2B,makefile)
 
-  <span style="display: inline-flex; align-items: center; background: #512BD4; border-radius: 20px; padding: 5px 10px; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="20">&nbsp;.NET
-  </span>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PedroHernandez654&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  <span style="display: inline-flex; align-items: center; background: #563D7C; border-radius: 20px; padding: 5px 10px; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="20">&nbsp;Bootstrap
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background: #1992D4; border-radius: 20px; padding: 5px 10px; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="20">&nbsp;Blazor
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background: #CC2927; border-radius: 20px; padding: 5px 10px; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_M_SQL_Server.png" width="50">&nbsp;SQL Server
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background: #336791; border-radius: 20px; padding: 5px 10px; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="20">&nbsp;PostgreSQL
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background: #000000; border-radius: 20px; padding: 5px 10px; margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="20">&nbsp;Notion
-  </span>
-</p>
-
-
-
-
-
-
-<!---
-PedroHernandez654/PedroHernandez654 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
